@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   app:
-    image: online-shop  
+    image: prashantsri3/online-shop  
     ports:
       - "80:80"  # Map container port 80 to host port 80
     restart: always  # Ensure the container restarts on failure
