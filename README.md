@@ -28,7 +28,6 @@ To run the project locally, follow these steps:
 4. **Run the Application Manually**
    ```sh
    npm start  # For frontend
-   python app.py  # For backend (if applicable)
    ```
 
 5. **Run the Application with Docker-Compose**
